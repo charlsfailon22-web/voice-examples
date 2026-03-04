@@ -33,6 +33,9 @@
 		"url": "https://github.com/discordjs/voice-examples/issues"
 	},
 	"homepage": "https://discord.js.org",
+	"dependencies": {
+  "discord.js": "^14.14.1"
+},
 	"devDependencies": {
 		"@commitlint/cli": "^19.8.1",
 		"@commitlint/config-angular": "^19.8.1",
